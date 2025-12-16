@@ -1,6 +1,6 @@
 <?php
 $nama = "Cindy";
-$nim = "230123456";
+$nim = "202303008";
 $prodi = "Teknik Informatika";
 $warna = "Biru";
 
